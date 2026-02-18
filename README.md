@@ -25,7 +25,7 @@ This architecture ensures that responses are grounded in the uploaded documents 
 
 ## Setup Instructions
 ### 1. Install Dependencies
-install requirements.txt file or else,
+1.install libraries from requirements.txt file or else,
 install manually:
 
 !pip install langchain
@@ -39,6 +39,9 @@ install manually:
 !pip install transformers
 
 !pip install gradio
+
+2.Run the notebook:
+Open notebooks/mini_RAG_chatbot.ipynb and execute all cells.
 
 ## Model Explanation
 ### Embedding Model
