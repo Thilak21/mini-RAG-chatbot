@@ -27,11 +27,16 @@ This architecture ensures that responses are grounded in the uploaded documents 
 ### 1. Install Dependencies
 install requirements.txt file or else,
 install manually:
+
 pip install langchain
+
 pip install langchain_community
+
 pip install sentence-transformers
 pip install faiss-cpu
+
 pip install transformers
+
 pip install gradio
 
 ## Model Explanation
